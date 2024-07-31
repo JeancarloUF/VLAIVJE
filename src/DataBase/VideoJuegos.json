@@ -1,0 +1,67 @@
+{
+    "Games": 
+    [
+       {
+            "Id": "Ps1-1", 
+            "nombreJuego" : "Crash Team Racing", 
+            "IdConsola" : "1"
+       },
+       {
+            "Id": "Ps1-2", 
+            "nombreJuego" : "Resident Evil 3: Nemesis ", 
+            "IdConsola" : "1"
+        },
+
+        {
+            "Id": "Ps2-1", 
+            "nombreJuego" : "Grand Theft Auto: San Andreas ", 
+            "IdConsola" : "2"
+        },
+
+        {
+            "Id": "Ps2-2", 
+            "nombreJuego" : "God of War 2: Divine Retribution  ", 
+            "IdConsola" : "2"
+        },
+
+        {
+            "Id": "Ps3-1", 
+            "nombreJuego" : "Grand Theft Auto V ", 
+            "IdConsola" : "3"
+        },
+
+        {
+            "Id": "Ps3-2", 
+            "nombreJuego" : "Metal Gear Solid: The Legacy Collection", 
+            "IdConsola" : "3"
+        },
+        
+
+        {
+            "Id": "Ps4-1", 
+            "nombreJuego" : "God of War: Ragnarok ", 
+            "IdConsola" : "4"
+        },
+        
+
+        {
+            "Id": "Ps4-2", 
+            "nombreJuego" : "Metal Gear Solid V: The Phantom Pain ", 
+            "IdConsola" : "4"
+        },
+        
+
+        {
+            "Id": "Ps5-1", 
+            "nombreJuego" : "Elder Ring", 
+            "IdConsola" : "5"
+        },
+        
+
+        {
+            "Id": "Ps5-1", 
+            "nombreJuego" : "Spider-Man: Miles Morales", 
+            "IdConsola" : "5"
+        }
+    ]
+}
